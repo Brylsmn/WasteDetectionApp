@@ -77,7 +77,7 @@ def clear_window():
 
 root = tk.Tk()
 root.geometry("800x600")  
-root.title("YOLO Detection")
+root.title("Trash Detection")
 root.config(bg="#2C3E50")  
 
 show_main_menu()
